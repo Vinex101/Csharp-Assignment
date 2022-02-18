@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "A2Q2 - Occurance/1.0.0": {
+        "runtime": {
+          "A2Q2 - Occurance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A2Q2 - Occurance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

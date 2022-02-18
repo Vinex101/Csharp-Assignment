@@ -1,0 +1,14 @@
+E:\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\obj\Debug\netcoreapp3.1\A2Q2 - Occurance.csprojAssemblyReference.cache
+E:\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\obj\Debug\netcoreapp3.1\A2Q2 - Occurance.AssemblyInfoInputs.cache
+E:\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\obj\Debug\netcoreapp3.1\A2Q2 - Occurance.AssemblyInfo.cs
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\obj\Debug\netcoreapp3.1\A2Q2 - Occurance.csprojAssemblyReference.cache
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\obj\Debug\netcoreapp3.1\A2Q2 - Occurance.AssemblyInfoInputs.cache
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\obj\Debug\netcoreapp3.1\A2Q2 - Occurance.AssemblyInfo.cs
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\bin\Debug\netcoreapp3.1\A2Q2 - Occurance.exe
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\bin\Debug\netcoreapp3.1\A2Q2 - Occurance.deps.json
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\bin\Debug\netcoreapp3.1\A2Q2 - Occurance.runtimeconfig.json
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\bin\Debug\netcoreapp3.1\A2Q2 - Occurance.runtimeconfig.dev.json
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\bin\Debug\netcoreapp3.1\A2Q2 - Occurance.dll
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\bin\Debug\netcoreapp3.1\A2Q2 - Occurance.pdb
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\obj\Debug\netcoreapp3.1\A2Q2 - Occurance.dll
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q2 - Occurance\A2Q2 - Occurance\obj\Debug\netcoreapp3.1\A2Q2 - Occurance.pdb
