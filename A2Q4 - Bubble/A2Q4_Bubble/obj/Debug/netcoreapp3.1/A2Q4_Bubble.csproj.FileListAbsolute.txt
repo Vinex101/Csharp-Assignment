@@ -1,0 +1,35 @@
+E:\21Prog\30019383_6211_A2\A2Q4_Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.exe
+E:\21Prog\30019383_6211_A2\A2Q4_Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.deps.json
+E:\21Prog\30019383_6211_A2\A2Q4_Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.runtimeconfig.json
+E:\21Prog\30019383_6211_A2\A2Q4_Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.runtimeconfig.dev.json
+E:\21Prog\30019383_6211_A2\A2Q4_Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.dll
+E:\21Prog\30019383_6211_A2\A2Q4_Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.pdb
+E:\21Prog\30019383_6211_A2\A2Q4_Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.csprojAssemblyReference.cache
+E:\21Prog\30019383_6211_A2\A2Q4_Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.AssemblyInfoInputs.cache
+E:\21Prog\30019383_6211_A2\A2Q4_Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.AssemblyInfo.cs
+E:\21Prog\30019383_6211_A2\A2Q4_Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.dll
+E:\21Prog\30019383_6211_A2\A2Q4_Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.pdb
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.exe
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.deps.json
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.runtimeconfig.json
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.runtimeconfig.dev.json
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.dll
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.pdb
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.csprojAssemblyReference.cache
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.AssemblyInfoInputs.cache
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.AssemblyInfo.cs
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.dll
+C:\Users\Vin\Desktop\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.pdb
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.exe
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.deps.json
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.runtimeconfig.json
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.runtimeconfig.dev.json
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.dll
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\bin\Debug\netcoreapp3.1\A2Q4_Bubble.pdb
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.GeneratedMSBuildEditorConfig.editorconfig
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.AssemblyInfoInputs.cache
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.AssemblyInfo.cs
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.csproj.CoreCompileInputs.cache
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.dll
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.pdb
+E:\21Prog\30019383_6211_A2\A2Q4 - Bubble\A2Q4_Bubble\obj\Debug\netcoreapp3.1\A2Q4_Bubble.genruntimeconfig.cache

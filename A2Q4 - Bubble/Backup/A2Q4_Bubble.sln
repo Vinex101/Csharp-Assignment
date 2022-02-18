@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2Q4_Bubble", "A2Q4_Bubble\A2Q4_Bubble.csproj", "{CCBA8432-51F3-4924-B5D7-7E4B85BC34BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBA8432-51F3-4924-B5D7-7E4B85BC34BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBA8432-51F3-4924-B5D7-7E4B85BC34BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBA8432-51F3-4924-B5D7-7E4B85BC34BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBA8432-51F3-4924-B5D7-7E4B85BC34BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49AD849F-6481-4B04-83C4-231F666D3B2A}
+	EndGlobalSection
+EndGlobal
